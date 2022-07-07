@@ -2,9 +2,12 @@
     "java.project.sourcePaths": [
         "Day 3/Polymorphism",
         "Day 3/Inheritance",
+        "Day 3/Encapsulation",
         "Day 3/Abstraction",
         "Day 2/Classes & Objects",
+        "Day 1/Arrays",
+        "Day 1/Arithmetics",
         "Day 0/Setup",
-        "Day 3/Encapsulation"
+        "Day 1/Variables"
     ]
 }
