@@ -16,4 +16,9 @@ class SlowCalculator extends Calculator {
         }
         return answer;
     }
+    public static void main(String[] args) {
+        SlowCalculator sc = new SlowCalculator();
+        System.out.println(sc.mult(39, 49));
+        System.out.println(sc.divide(37, 49));
+    }
 }
